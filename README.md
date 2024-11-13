@@ -1,7 +1,7 @@
 ## hello 👋
-
-![Alt text](gui2.png?raw=true "Title")
-
+<div align="center">
+  <img src="gui2.png?raw=true" alt="Title" width="50%">
+</div>
 <!--
 **Ro3sk1/Ro3sk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
